@@ -1,0 +1,18 @@
+__pycache__/
+.idea/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+poetry.lock
+pyproject.toml
+
+#other files
+Untitled.ipynb
+.ipynb_checkpoints
